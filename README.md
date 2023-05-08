@@ -2,11 +2,11 @@
 
 ### 📊 GitHub statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-5G&count_private=true&show_icons=true&include_all_commits=true&text_bold=false&bg_color=fccf03&icon_color=fc6b03&ring_color=87ceeb&title_color=eb4034)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-5G&count_private=true&show_icons=true&include_all_commits=true&text_bold=false&bg_color=7e42f5&icon_color=4287f5&ring_color=42cbf5&title_color=4287f5)
 
 ### ⌨ Most used languages on GitHub
 
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-5G&layout=compact&langs_count=10&bg_color=fccf03&title_color=eb4034)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-5G&layout=compact&langs_count=10&bg_color=7e42f5&title_color=4287f5)
 
 <h5>Joined GitHub on November 22, 2022
 /h5>
