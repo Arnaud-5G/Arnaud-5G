@@ -9,7 +9,6 @@
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-5G&layout=compact&langs_count=10&bg_color=00000000&title_color=87ceeb)
 
 <h5>Joined GitHub on November 22, 2022
-/h5>
 
 <!--
 **Arnaud-5G/Arnaud-5G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
