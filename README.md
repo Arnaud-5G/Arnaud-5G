@@ -2,7 +2,7 @@
 
 ### 📊 GitHub statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-5G&count_private=true&show_icons=true&include_all_commits=true&text_bold=false&bg_color=00000000&icon_color=87ceeb&ring_color=87ceeb&title_color=87ceeb)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnaud-5G&count_private=true&show_icons=true&include_all_commits=true&text_bold=false&bg_color=00000000&icon_color=ff5500&ring_color=ff5500&title_color=ff5500)
 
 ### ⌨ Most used languages on GitHub
 
