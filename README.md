@@ -6,7 +6,7 @@
 
 ### ⌨ Most used languages on GitHub
 
-![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-5G&layout=compact&langs_count=10&bg_color=00000000&title_color=87ceeb)
+![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnaud-5G&layout=compact&langs_count=10&bg_color=00000000&title_color=ff5500)
 
 <h5>Joined GitHub on November 22, 2022
 
